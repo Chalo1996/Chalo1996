@@ -1,3 +1,1 @@
-#This is a Blog site.#
-*Designed it using the django framework*
-*Contributions are welcome*
+**Old people plant trees, which shade they know they will never sit in. <\br> Our planet needs humanity; good people**

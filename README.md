@@ -1,27 +1,13 @@
-## Basic Info:
+##### Hi there, I'm [Chalo]("linkedin.com/in/emmanuel-chalo-211336183")
 ---
-### Emmanuel Musyoka Chalo</br>
-### Software Engineer
-----
-## Contacts:
-#### email: emusyoka759@gmail.com
-#### LinkedIn: linkedin.com/in/emmanuel-chalo-211336183
-#### Country: Kenya</br>
-#### Phone: +254708385554<br>
+###### I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
 ---
+Skills and Expertise
 
-**Skills:**</br>
-Programming.</br>
-  C</br>
-  Python</br>
-  Javascript</br>
-  Java</br>
-  
-Frameworks:</br>
-Django</br>
+Programming Languages: Python, C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS
 
-The Linux System<br>
-  Ubuntu</br>
-  Kali Linux</br>
-  Shell Scripting</br>
-  SysAdmin</br>
+Data Visualization: Matplotlib, Seaborn, Pandas
+
+Cloud: AWS (EC2, S3), GCP
+
+Frameworks & Other: Git, Anaconda, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress

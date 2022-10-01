@@ -1,6 +1,6 @@
-##### Hi there, I'm [Chalo]("linkedin.com/in/emmanuel-chalo-211336183")
+### Hi there, I'm [Chalo]("linkedin.com/in/emmanuel-chalo-211336183")
 ---
-###### I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
+#### I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
 ---
 Skills and Expertise
 

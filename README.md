@@ -10,4 +10,4 @@ Data Visualization: Matplotlib, Seaborn, Pandas
 
 Cloud: AWS (EC2, S3), GCP
 
-Frameworks & Other: Git, Anaconda, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js
+Frameworks & Other: Git, Anaconda, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js.

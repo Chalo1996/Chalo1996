@@ -4,7 +4,7 @@
 ---
 Skills and Expertise
 
-Programming Languages: Python, C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS, TypeScript, C#
+Programming Languages: Python, C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS, TypeScript,
 
 Data Visualization: Matplotlib, Seaborn, Pandas
 

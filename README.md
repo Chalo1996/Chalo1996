@@ -3,6 +3,7 @@
 #### I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
 ---
 Skills and Expertise
+---
 
 Programming Languages: Python, C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS.
 

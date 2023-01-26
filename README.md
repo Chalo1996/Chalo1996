@@ -2,13 +2,13 @@
 ---
 #### I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
 ---
-Skills and Expertise
+#### Skills and Expertise:
 ---
 
-Programming Languages: Python, C/C++, SQL, Ruby on Rails, JavaScript, HTML, CSS.
+Programming Languages: Python, C, SQL, Ruby on Rails, JavaScript, HTML, CSS.
 
 Data Visualization: Matplotlib, Seaborn, Pandas.
 
-Cloud: AWS (EC2, S3), GCP.
+Cloud: AWS, GCP.
 
-Frameworks & Other: Git, Anaconda, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js.
+Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js.

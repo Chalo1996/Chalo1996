@@ -5,10 +5,10 @@
 #### Skills and Expertise:
 ---
 
-Programming Languages: Python, C, SQL, Ruby on Rails, JavaScript, HTML, CSS.
+Programming Languages: Python, C, SQL, JavaScript, HTML, CSS.
 
-Data Visualization: Matplotlib, Seaborn, Pandas.
+Data Visualization: Matplotlib, Pandas.
 
 Cloud: AWS, GCP.
 
-Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js.
+Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js, React.

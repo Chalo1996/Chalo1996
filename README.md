@@ -10,4 +10,6 @@ Data Visualization: Matplotlib, Pandas.
 
 Cloud: AWS, GCP.
 
+Licenses: LFCS
+
 Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js, React.js.

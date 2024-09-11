@@ -12,4 +12,4 @@ Cloud: AWS, GCP.
 
 Licenses: LFCS
 
-Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, Bootstrap, WordPress, Django, Node.js, React.js.
+Frameworks & Other: Git, Flask, OpenSSL, Nginx, Apache, Docker, Vagrant, LibVirt, Bootstrap, WordPress, Django, Node.js, React.js.

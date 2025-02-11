@@ -1,4 +1,4 @@
-Hi there, I'm [Chalo](https://www.linkedin.com/in/emmanuel-musyoka-chalo-211336183/ "LinkedIn").
+Hi there, I'm [Chalo](linkedin.com/in/emmanuel-chalo-211336183 "LinkedIn").
 
 I am a Software Engineer with a background in Physics and Mathematics. I love solving complex data and algorithmic problems.
 

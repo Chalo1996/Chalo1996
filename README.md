@@ -7,20 +7,25 @@ I am a Software Engineer with a background in Physics and Mathematics. I love so
 ### 1. Programming Languages
 - Python
 - C
+- C++
+- PL/SQL
+- TypeScript
 - SQL
 - JavaScript
 - HTML
 - CSS
 - C#
 
-### 2. Data Visualization
+### 2. Data Visualization And Data Wrangling
 - Matplotlib
 - Pandas
+- NumPy
 
 ### 3. Cloud Platforms
 - AWS
 - GCP
 - AZURE
+- Oracle
 
 ### 4. Licenses
 1. Linux Foundation Certified Systems Administrator (LFCS) — [Badge](https://www.credly.com/badges/e72f408c-9cab-4bfb-a6ed-5dc7dfbbac68/linked_in_profile "Credly")
@@ -37,6 +42,8 @@ I am a Software Engineer with a background in Physics and Mathematics. I love so
 - Vagrant
 - LibVirt
 - ASP.NET Core
+- .NET
+- Express.js
 - Bootstrap
 - Django
 - Node.js
